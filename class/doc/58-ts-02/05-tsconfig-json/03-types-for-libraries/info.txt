@@ -1,0 +1,9 @@
+npm install lodash --save
+npm install jquery --save
+
+install types for ts!!!!!
+npm install @types/lodash --save-dev
+npm install @types/jquery --save-dev
+
+https://github.com/DefinitelyTyped
+https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/jquery

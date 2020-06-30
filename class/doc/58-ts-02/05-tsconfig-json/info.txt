@@ -1,0 +1,11 @@
+tsc --init // creates tsconfig.json with parameters
+
+if we have tsconfig we run the transpiler like this : 
+c:\>tsc and the parameters come from the tsconfig
+
+
+https://www.typescriptlang.org/docs/handbook/tsconfig-json.html
+
+tsc --watch    (with tsconfig.json);
+
+// "noEmitOnError": true,       /* Do not emit outputs. if error */

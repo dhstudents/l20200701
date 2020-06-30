@@ -1,0 +1,4 @@
+npm init
+npm init --yes : creates package.json
+
+create start command in package.json on scripts

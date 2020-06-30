@@ -1,0 +1,8 @@
+======== Resolving module './book.js' from 'C:/learn/fs/ta-56/l20200701/src/app.ts'. ========
+Module resolution kind is not specified, using 'Classic'.
+File 'C:/learn/fs/ta-56/l20200701/src/book.js.ts' does not exist.
+File 'C:/learn/fs/ta-56/l20200701/src/book.js.tsx' does not exist.
+File 'C:/learn/fs/ta-56/l20200701/src/book.js.d.ts' does not exist.
+File name 'C:/learn/fs/ta-56/l20200701/src/book.js' has a '.js' extension - stripping it.
+File 'C:/learn/fs/ta-56/l20200701/src/book.ts' exist - use it as a name resolution result.
+======== Module name './book.js' was successfully resolved to 'C:/learn/fs/ta-56/l20200701/src/book.ts'. ========

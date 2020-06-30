@@ -1,0 +1,5 @@
+c:\>tsc app.js --out newname.js
+c:\>tsc app.js --watch
+
+
+tsc --help

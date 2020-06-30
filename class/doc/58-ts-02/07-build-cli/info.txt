@@ -1,0 +1,30 @@
+java brains typescript 25
+https://www.youtube.com/watch?v=YPShu0H3RbM&list=PLqq-6Pq4lTTanfgsbnFzfWUhhAz3tIezU
+
+setting up the project
+npm init --yes
+tsc init
+rootDir = ./src
+outDir = ./dist
+in package.json add to scripts: 
+"start" : tsc && node dist/index.js
+run : npm start
+
+add dependencies packages:
+1. request 
+2. lodash   
+npm install lodash request --save // check the package.json
+
+add types for typescript from @types/******
+npm install @types/lodash @types/request --save-dev
+
+create the model class
+https://api.github.com/users/dhstudents
+https://api.github.com/users/dhstudents/repos
+
+class user
+class Repo
+class GithubApiService
+
+conver the response to model object
+using call backs service is async so no return is possible

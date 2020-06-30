@@ -1,0 +1,12 @@
+https://www.youtube.com/watch?v=Jhp3_VJVx2w
+
+https://github.com/iradul/vscode-phantomjs-debug
+
+https://medium.com/front-end-hacking/solve-breakpoint-ignored-with-visual-studio-code-vscode-1-19-chrome-debugger-6d484c88b829
+
+https://blogs.msdn.microsoft.com/jtarquino/2016/01/24/debugging-typescript-in-visual-studio-code-and-chrome/
+
+
+https://stackoverflow.com/questions/36006303/vs-code-breakpoint-ignored-because-generated-code-not-found-error
+
+https://github.com/MarkPieszak/aspnetcore-angular2-universal/issues/606

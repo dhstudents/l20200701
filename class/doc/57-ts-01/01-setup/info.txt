@@ -1,0 +1,6 @@
+use nodejs 
+use vs code 
+npm install typescript -g
+
+
+type declaration
